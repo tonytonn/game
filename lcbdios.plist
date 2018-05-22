@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.yj.lcbd.jjyx</string>
+				<string>com.jjyx.hcbd.traceless</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>龙城霸刀</string>
+				<string>皇城霸刀</string>
 			</dict>
 		</dict>
 	</array>
