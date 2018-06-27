@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://dl.34560.com/package/ios/rxlcios/rexuelongcheng_2.0.ipa</string>
+					<string>https://dl.34560.com/package/ios/rxlcios/rexuelongcheng_3.0.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -19,7 +19,7 @@
 				<key>bundle-identifier</key>
 				<string>com.rxlc.jjyx</string>
 				<key>bundle-version</key>
-				<string>2.0</string>
+				<string>3.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
